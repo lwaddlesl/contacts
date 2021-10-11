@@ -28,11 +28,7 @@
       <v-list flat two-line>
         <div v-for="contact in contacts" :key="contact.id">
           <v-list-item>
-            <template v-slot:default="{ active }">
-              <v-list-item-action>
-                <v-checkbox :input-value="active"></v-checkbox>
-              </v-list-item-action>
-
+            <template>
               <v-list-item-content>
                 <v-list-item-title>{{ contact.title }}</v-list-item-title>
                 <v-list-item-subtitle>
