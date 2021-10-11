@@ -3,6 +3,7 @@
 ![contacts](https://user-images.githubusercontent.com/48293632/136792070-769a18a9-9993-4231-aee3-382917499811.png)
 
 framework: Nuxt
+
 library: Vuetify
 
 ## Build Setup
