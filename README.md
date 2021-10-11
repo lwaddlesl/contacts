@@ -1,6 +1,6 @@
 # contacts
 
-![Screenshot_1](https://user-images.githubusercontent.com/48293632/136789127-66497325-128e-436a-af19-acf1c570ff0a.png)
+![contacts](https://user-images.githubusercontent.com/48293632/136792070-769a18a9-9993-4231-aee3-382917499811.png)
 
 ## Build Setup
 
